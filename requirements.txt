@@ -1,0 +1,5 @@
+ollama
+numpy
+pandas
+scikit-learn
+faiss-cpu

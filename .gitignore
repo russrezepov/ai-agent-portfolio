@@ -1,0 +1,5 @@
+__pycache__/
+memory/store.json
+logs/events.log
+venv/
+.DS_Store
